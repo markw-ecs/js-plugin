@@ -1,0 +1,14 @@
+{
+  "name": "@markplugin/plugin-math",
+  "version": "1.0.0",
+  "description": "Math based plugins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@markplugin/plugin-core": "^1.0.0"
+  }
+}
